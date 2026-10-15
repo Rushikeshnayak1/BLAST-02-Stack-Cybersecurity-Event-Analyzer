@@ -2,9 +2,8 @@
 
 Add your published links below after uploading the video and LinkedIn post.
 
-- **YouTube — theory/presentation:** [Add link here]
-- **YouTube — C++ code and practical demo:** [Add link here]
-- **LinkedIn post:** [Add link here]
-- **GitHub repository:** [Add link here after creating repository]
+- **YouTube — theory/presentation:** [https://youtu.be/QyaYKVlmFwY?si=zTOIt6jAjKEqwbEH]
+- **YouTube — C++ code and practical demo:** [https://youtu.be/foDTZ7Siw5g?si=L3Gp8brCCiHsRF5q]
+- **LinkedIn post:** [https://lnkd.in/p/g9gf7eMG]
+- **LinkedIn post:** [https://lnkd.in/p/gb_hraui]
 
-Remember to add your GitHub link to your YouTube description and LinkedIn post, and include your YouTube/LinkedIn links here.
